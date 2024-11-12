@@ -1,6 +1,3 @@
-
-Código do Sistema da Loja do Rick (Rick's Guitars)
-
 from enum import Enum
 
 class Builder(Enum):
